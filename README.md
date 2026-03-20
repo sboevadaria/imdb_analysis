@@ -65,3 +65,5 @@ jupyter notebook
 ![График 3](images/scatter_plot.png)
 
 </details>
+
+
