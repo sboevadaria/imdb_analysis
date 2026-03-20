@@ -13,7 +13,7 @@
 
 # Запуск
 
-- Скопируйте репозиторий:
+1. Скопируйте репозиторий:
 
 ```bash
 git clone https://github.com/sboevadaria/imdb-hypothesis-testing.git
@@ -21,13 +21,13 @@ git clone https://github.com/sboevadaria/imdb-hypothesis-testing.git
 cd imdb-hypothesis-testing
 ```
 
-- Установите библиотеки:
+2. Установите библиотеки:
 
 ```bash
 pip install pandas matplotlib seaborn numpy
 ```
 
-- Скачайте и разместите датасет:
+3. Скачайте и разместите датасет:
 
 ```bash
 imdb-hypothesis-testing/
@@ -37,10 +37,10 @@ imdb-hypothesis-testing/
     └── imdb_top_1000.csv.xls
 ```
 
-- Запустите Jupiter Notebook:
+4. Запустите Jupiter Notebook:
 
 ```bash
 jupyter notebook
 ```
-- Откройте проект (imdb_hypothesis_testing.ipynb) и запустите все ячейки
+5. Откройте проект (imdb_hypothesis_testing.ipynb) и запустите все ячейки
   
