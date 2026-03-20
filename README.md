@@ -46,4 +46,22 @@ jupyter notebook
 
 # Примеры графиков, содержащихся в проекте
 
+<details>
+<summary>👾 Нажмите, чтобы посмотреть графики</summary>
 
+
+### 'IMDb Ratings for Films Released Before and After 2000 by Genres'
+
+![График 1](images/box_plot.png)
+
+
+### 'IMDb Ratings of Films Released After 2000'
+
+![График 2](images/line_plot.png)
+
+
+### 'Metascore vs IMDb Rating of Films'
+
+![График 3](images/scatter_plot.png)
+
+</details>
