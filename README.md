@@ -24,7 +24,7 @@ cd imdb-hypothesis-testing
 2. Установите библиотеки:
 
 ```bash
-pip install pandas matplotlib seaborn numpy
+pip install pandas matplotlib seaborn
 ```
 
 3. Скачайте и разместите датасет:
