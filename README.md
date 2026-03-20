@@ -43,4 +43,7 @@ imdb-hypothesis-testing/
 jupyter notebook
 ```
 5. Откройте проект (imdb_hypothesis_testing.ipynb) и запустите все ячейки
-  
+
+# Примеры графиков, содержащихся в проекте
+
+
